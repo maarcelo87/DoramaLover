@@ -74,7 +74,6 @@ header {
   position: relative;
   z-index: 1;
   margin-top: 50px;
-  
 }
 
 .dorama-item {
@@ -103,7 +102,7 @@ header {
   margin-bottom: 5px;
 }
 
-.dorama-comment {
+.dorama-comment p {
   font-size: 0.9em;
   color: #000000;
   margin-top: 5px;
